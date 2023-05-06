@@ -1,2 +1,2 @@
 # Archive
-Lomba FastTekno 2023 (4 mei 2023)
+Lomba FastTekno 2023
